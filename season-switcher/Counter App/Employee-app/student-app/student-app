@@ -1,0 +1,4 @@
+mkdir student-app
+cd student-app
+npm init -y
+npm install express
