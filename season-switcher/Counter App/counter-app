@@ -1,0 +1,4 @@
+mkdir counter-app
+cd counter-app
+npm init -y
+npm install express
