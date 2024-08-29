@@ -1,0 +1,4 @@
+mkdir another-app
+cd another-app
+npm init -y
+npm install express
