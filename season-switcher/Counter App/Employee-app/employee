@@ -1,0 +1,4 @@
+mkdir employee-app
+cd employee-app
+npm init -y
+npm install express
