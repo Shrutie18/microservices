@@ -1,0 +1,4 @@
+mkdir season-switcher
+cd season-switcher
+npm init -y
+npm install express
